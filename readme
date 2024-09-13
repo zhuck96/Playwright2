@@ -1,0 +1,11 @@
+Установка Playwright
+
+1 - В IDE в терминал ввести команду pip install pytest-playwright и нажать Enter
+
+2 - После окончания действия команды из предыдущего шага в терминал ввести команду playwright install
+
+Запуск теста:
+
+1 - Находясь в терминале в папке проекта Playwright в терминал ввести команду pytest .\tests\ или указать абсолютный
+
+путь до теста ( пример - C:\Users\user\PycharmProjects\Playwright\tests\test_page.py )
